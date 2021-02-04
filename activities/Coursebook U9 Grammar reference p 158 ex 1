@@ -1,0 +1,14 @@
+Match 1-6 to A-F to make sentences.
+
+1. Liquids freeze {1:MCS:%0%A~%100%B~%0%C~%0%D~%0%E~%0%F~%0%G}
+2. Chocolates melt {2:MCS:%0%A~%0%B~%0%C~%0%D~%100%E~%0%F~%0%G}
+3. Fish die {3:MCS:%0%A~%0%B~%0%C~%0%D~%0%E~%100%F~%0%G}
+4. People have fewer diseases {4:MCS:%0%A~%0%B~%100%C~%0%D~%0%E~%0%F~%0%G}
+5. Laws do not work {5:MCS:%0%A~%0%B~%0%C~%100%D~%0%E~%0%F~%0%G}
+6. Plums are sour {6:MCS:%100%A~%0%B~%0%C~%0%D~%0%E~%0%F~%0%G}
+A. if they are not ripe.
+B. if they are cooled to a low temperature.
+C. if they eat healthy food.
+D. if they are not enforced.
+E. if they are kept in a warm place.
+F. if they are taken out of water.
